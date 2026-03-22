@@ -1,0 +1,16 @@
+{
+    "name": "TOEIC 訓練計畫",
+    "short_name": "TOEIC Trainer",
+    "description": "免費 TOEIC 多益訓練，依目標分數自動配置每日練習",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#f8fafc",
+    "theme_color": "#2563eb",
+    "icons": [
+        {
+            "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎯</text></svg>",
+            "sizes": "any",
+            "type": "image/svg+xml"
+        }
+    ]
+}
